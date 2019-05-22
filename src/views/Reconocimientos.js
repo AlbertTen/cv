@@ -1,4 +1,5 @@
 import React, {Component} from 'react'; 
+import '../css/styles.css';
 
 /*View para Datos Reconocimientos */
 class Reconocimientos extends Component {

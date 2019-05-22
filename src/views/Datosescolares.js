@@ -1,4 +1,5 @@
-import React, {Component} from 'react'; 
+import React, {Component} from 'react';
+import '../css/styles.css';
 
 /*View para Datos Escolares  */
 class Datosescolares extends Component {

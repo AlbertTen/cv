@@ -1,4 +1,5 @@
 import React, {Component} from 'react'; 
+import '../css/styles.css';
 
 /*View para Experiencia  */
 class Experiencia extends Component {

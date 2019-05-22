@@ -1,4 +1,5 @@
 import React, {Component} from 'react'; 
+import '../css/styles.css';
 
 /*View para Habilidades */
 class Habilidades extends Component {
